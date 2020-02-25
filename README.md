@@ -113,7 +113,3 @@ Be it code, bugfixes, or just a suggestion of a behavior or package
 that should be added to this config. Just open up an issue on
 github. I am really interested to get other opinions on what is
 working and what isn't.
-# emacs
-# emacs
-# emacs
-# emacs
