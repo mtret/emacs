@@ -107,7 +107,7 @@
 ;; -------------------
 ;; Theme
 ;; -------------------
-(load-theme 'solarized-light t)
+(load-theme 'flatui t)
 
 ;; -------------------
 ;; Magit
